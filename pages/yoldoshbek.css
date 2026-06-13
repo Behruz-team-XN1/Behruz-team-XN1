@@ -1,5 +1,4 @@
-*,
-*::before,
+
 *::after {
   box-sizing: border-box;
   margin: 0;
@@ -29,7 +28,7 @@ a {
 }
 
 
-.hero {
+.tasks {
   background-color: #0070A0;
   padding: 60px 40px;
 }
